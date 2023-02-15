@@ -5,7 +5,7 @@
 @@||pagead2.googleadservices.com^$important
 @@||googleadservices.com^$important
 @@||googleads.g.doubleclick.net^$important
-@@||www.googletagmanager.com^$important
+@@||googletagmanager.com^$important
 -Google Analytics-
 @@||google-analytics.com^$important
 @@||ssl.google-analytics.com^$important
