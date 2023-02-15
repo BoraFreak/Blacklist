@@ -1,14 +1,14 @@
 -Amazon-
-||https://adtago.s3.amazonaws.com^$important
-||https://analyticsengine.s3.amazonaws.com^$important
-||https://advice-ads.s3.amazonaws.com^$important
-||https://affiliationjs.s3.amazonaws.com^$important
+||adtago.s3.amazonaws.com^$important
+||analyticsengine.s3.amazonaws.com^$important
+||advice-ads.s3.amazonaws.com^$important
+||affiliationjs.s3.amazonaws.com^$important
 -Apple-
-||https://metrics.apple.com^$important
-||https://securemetrics.apple.com^$important
-||https://supportmetrics.apple.com^$important
-||https://metrics.icloud.com^$important
-||https://metrics.mzstatic.com^$important
+||metrics.apple.com^$important
+||securemetrics.apple.com^$important
+||supportmetrics.apple.com^$important
+||metrics.icloud.com^$important
+||metrics.mzstatic.com^$important
 -Pinterest-
 ||ads.pinterest.com^$important
 ||log.pinterest.com^$important
@@ -20,10 +20,10 @@
 ||ads.reddit.com^$important
 ||d.reddit.com^$important
 -Stats WP-
-||https://stats.wp.com^$important
+||stats.wp.com^$important
 -Twitter-
-||https://ads-api.twitter.com^$important
-||https://advertising.twitter.com^$important
+||ads-api.twitter.com^$important
+||advertising.twitter.com^$important
 -Benutzer-
 ||cdn.samsungcloudsolution.com^$important
 ||yt3.googleusercontent.com^$important
