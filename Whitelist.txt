@@ -23,6 +23,7 @@
 @@||ads.tiktok.com^$important
 @@||analytics-sg.tiktok.com^$important
 @@||ads-sg.tiktok.com^$important
+@@||frontier-va.tiktokv.com^$important
 -Benutzer-
 @@||xhamster.com^$important
 @@||xhamster.desi^$important
@@ -58,7 +59,6 @@
 @@||frontier-va.tiktokv.com^$important
 @@||prison.codigames-data.net^$important
 @@||themepark.codigames-data.net^$important
-@@||eu.wbgaf.com^$important
 @@||th7.cn/sanda2015/css/ads.js
 @@||lancdn.com/landian/public/js/ads.js
 @@||qbox.me/static/js/ads.js$domain=linux.cn
