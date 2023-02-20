@@ -192,6 +192,8 @@
 ||stocks-analytics-events.news.apple-dns.net^
 
 -Benutzer-
+||rr5---sn-4g5ednsy.googlevideo.com^$important
+||rr5.sn-4g5ednsy.googlevideo.com^$important
 ||click-trk.com^$important
 ||adjust.io^
 ||airbrake.io^
