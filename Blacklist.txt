@@ -1,15 +1,15 @@
 !Ads ====================
 
-!Media.net
+-Media.net-
 ||media.net^
 
-!Doubleclick.net
+-Doubleclick.net-
 ||doubleclick.net^
 
-!FastClick
+-FastClick-
 ||fastclick.com^
 
-!Amazon
+-Amazon-
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
 ||advice-ads.s3.amazonaws.com^
@@ -20,7 +20,7 @@
 ||assoc-amazon.com^
 
 !#Analytics ====================
-! Yahoo
+-Yahoo-
 ||ads.yahoo.com^
 ||adserver.yahoo.com^
 ||adspecs.yahoo.com^
@@ -39,7 +39,7 @@
 ||ads.yap.yahoo.com^
 ||partnerads.ysm.yahoo.com^
 
-! Yandex
+-Yandex-
 ||appmetrica.yandex.com^
 ||report.appmetrica.yandex.net^
 ||extmaps-api.yandex.net^
@@ -66,45 +66,45 @@
 ||share.yandex.ru^
 ||yandexadexchange.net^
 
-!Hotjar
+-Hotjar-
 ||hotjar.com^
 
-!MouseFlow
+-MouseFlow-
 ||mouseflow.com^
 
-!FreshMarketer
+-FreshMarketer-
 ||freshmarketer.com^
 
-!Luckyorange
+-Luckyorange-
 ||luckyorange.com^
 ||luckyorange.net^
 
-!Stats WP Plugin
+-Stats WP Plugin-
 ||stats.wp.com^
 
 !#Error Trackers ====================
 
-!Bugsnag
+-Bugsnag-
 ||notify.bugsnag.com^
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
 ||app.bugsnag.com^
 
-!Sentry
+-Sentry-
 ||browser.sentry-cdn.com^
 ||app.getsentry.com^
 
 !#Social ====================
 
-!Twitter
+-Twitter-
 ||ads-api.twitter.com^
 ||advertising.twitter.com^
 
-!LinkedIn
+-LinkedIn-
 ||ads.linkedin.com^
 ||analytics.pointdrive.linkedin.com^
 
-!Pinterest
+-Pinterest-
 ||ads.pinterest.com^
 ||log.pinterest.com^
 ||ads-dev.pinterest.com^
@@ -113,21 +113,22 @@
 ||trk2.pinterest.com^
 ||widgets.pinterest.com^
 
-!Reddit
+-Reddit-
 ||ads.reddit.com^
 ||rereddit.com^
 ||events.redditmedia.com^
 ||d.reddit.com^
 
-!YouTube
+-YouTube-
 ||ads.youtube.com^
+||yt3.googleusercontent.com^
 
 !#OEM ====================
 
-!Realme
+-Realme-
 ||bdapi-in-ads.realmemobile.com^
 
-!OPPO
+-OPPO-
 ||adsfs.oppomobile.com^
 ||adx.ads.oppomobile.com^
 ||bdapi.ads.oppomobile.com^
@@ -135,7 +136,7 @@
 ||data.ads.oppomobile.com^
 ||g1.ads.oppomobile.com^
 
-!Xiaomi   
+-Xiaomi-  
 ||api.ad.xiaomi.com^
 ||app.chat.xiaomi.net^
 ||data.mistat.xiaomi.com^
@@ -150,12 +151,12 @@
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
 
-!OnePlus
+-OnePlus-
 ||click.oneplus.cn^
 ||click.oneplus.com^
 ||open.oneplus.net^
 
-!Huawei
+-Huawei-
 ||metrics.data.hicloud.com^
 ||metrics1.data.hicloud.com^
 ||metrics2.data.hicloud.com^
@@ -167,7 +168,7 @@
 ||metrics-dra.dt.hicloud.com^
 ||logbak.hicloud.com^
 
-!Samsung
+-Samsung-
 ||samsungadhub.com^
 ||samsungads.com^
 ||smetrics.samsung.com^
@@ -176,8 +177,9 @@
 ||business.samsungusa.com^
 ||analytics.samsungknox.com^
 ||analytics-api.samsunghealthcn.com^
+||cdn.samsungcloudsolution.com^
 
-!Apple
+-Apple-
 ||metrics.apple.com^
 ||securemetrics.apple.com^
 ||supportmetrics.apple.com^
@@ -190,8 +192,6 @@
 ||stocks-analytics-events.news.apple-dns.net^
 
 -Benutzer-
-||cdn.samsungcloudsolution.com^$important
-||yt3.googleusercontent.com^$important
 ||click-trk.com^$important
 ||adjust.io^
 ||airbrake.io^
@@ -280,10 +280,6 @@ youtube.com##+js(json-prune, playerResponse.playerAds)
 youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
 youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 *$subdocument,third-party,domain=~youtube.com|~google.com|~goo.gl|~youtu.be
-# This blocklist helps to restrict access to Google and its domains. Contribute at https://github.com/nickspaargaren/no-google
-# Last updated: 2023-01-21
-# Youtube
-
 _domainkey.youtube.com
 a.rtmp.youtube.com
 a.rtmps.youtube.com
