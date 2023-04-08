@@ -24,6 +24,7 @@
 @@||ads-sg.tiktok.com^$important
 @@||frontier-va.tiktokv.com^$important
 -Benutzer-
+@@||ads.t17service.com^$important
 @@||xhamster.com^$important
 @@||xhamster.desi^$important
 @@||xhamsterlive.com^$important
