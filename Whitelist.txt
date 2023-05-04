@@ -154,3 +154,5 @@
 @@||urbandigital.id/wp-content/plugins/ad-inserter-pro/images/ads.png$image,~third-party
 @@||virtualdata.me/webroot/js/ads.js$script,~third-party
 @@||www.googletagmanager.com/gtm.js$script,domain=inet.detik.com
+@@||androidads4-8.adcolony.com^
+@@||api.gameanalytics.com^$important
