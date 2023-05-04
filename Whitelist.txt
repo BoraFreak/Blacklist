@@ -46,6 +46,8 @@
 @@||freeroms.com^$important
 @@||web.de^$important
 @@||vaporesso.com^$important
+@@||fical.net^$important
+@@||www.fical.net^$important
 @@||https://fical.net^$important
 @@||click.alternate.de^$important
 @@||app.usercentrics.eu^$important
