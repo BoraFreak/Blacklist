@@ -701,6 +701,9 @@
 @@||images.vinted.net^$important
 -Vodafone-
 @@||fc.vodafone.de^$important
+-VPN-
+@@||go.getproton.me^$important
+@@||get.surfshark.net^$important
 -WhatsApp-
 @@||chat.cdn.whatsapp.net^$important
 @@||g.whatsapp.net^$important
