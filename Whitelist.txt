@@ -578,9 +578,6 @@
 @@||reddit.com^$important
 -Rlje.net VOD-
 @@||api.rlje.net^$important
--Samsung TV network issue-
-@@||cdn.samsungcloudsolution.com^$important
-@@||time.samsungcloudsolution.com^$important
 -Shoop-
 @@||www.shoop.de^$important
 -Shopify.com eCommerce Software-
