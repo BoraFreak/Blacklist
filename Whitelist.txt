@@ -285,7 +285,6 @@
 @@||0.client-channel.google.com^$important
 @@||2.android.pool.ntp.org^$important
 @@||accounts.google.com^$important
-@@||analytics.google.com^$important
 @@||android.clients.google.com^$important
 @@||appsbackup-pa.clients6.google.com^$important
 @@||appsbackup-pa.googleapis.com^$important
@@ -661,9 +660,7 @@
 -Tidal-
 @@||tidal.com^$important
 -TikTok-
-@@||analytics.tiktok.com^$important
 @@||ads.tiktok.com^$important
-@@||analytics-sg.tiktok.com^$important
 @@||ads-sg.tiktok.com^$important
 @@||frontier-va.tiktokv.com^$important
 -Tinyurl Shortener-
