@@ -1,14 +1,5 @@
 !Ads ====================
 
--Media.net-
-||media.net^
-
--Doubleclick.net-
-||doubleclick.net^
-
--FastClick-
-||fastclick.com^
-
 -Amazon-
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
@@ -19,7 +10,33 @@
 ||amazonclix.com^
 ||assoc-amazon.com^
 
+-Doubleclick.net-
+||doubleclick.net^
+
+-FastClick-
+||fastclick.com^
+
+-Media.net-
+||media.net^
+
 !#Analytics ====================
+
+-FreshMarketer-
+||freshmarketer.com^
+
+-Hotjar-
+||hotjar.com^
+
+-Luckyorange-
+||luckyorange.com^
+||luckyorange.net^
+
+-MouseFlow-
+||mouseflow.com^
+
+-Stats WP Plugin-
+||stats.wp.com^
+
 -Yahoo-
 ||ads.yahoo.com^
 ||adserver.yahoo.com^
@@ -40,6 +57,7 @@
 ||partnerads.ysm.yahoo.com^
 
 -Yandex-
+||appmetrica.yandex.ru^
 ||appmetrica.yandex.com^
 ||report.appmetrica.yandex.net^
 ||extmaps-api.yandex.net^
@@ -66,22 +84,6 @@
 ||share.yandex.ru^
 ||yandexadexchange.net^
 
--Hotjar-
-||hotjar.com^
-
--MouseFlow-
-||mouseflow.com^
-
--FreshMarketer-
-||freshmarketer.com^
-
--Luckyorange-
-||luckyorange.com^
-||luckyorange.net^
-
--Stats WP Plugin-
-||stats.wp.com^
-
 !#Error Trackers ====================
 
 -Bugsnag-
@@ -95,10 +97,6 @@
 ||app.getsentry.com^
 
 !#Social ====================
-
--Twitter-
-||ads-api.twitter.com^
-||advertising.twitter.com^
 
 -LinkedIn-
 ||ads.linkedin.com^
@@ -116,8 +114,13 @@
 -Reddit-
 ||ads.reddit.com^
 ||rereddit.com^
+||events.reddit.com^
 ||events.redditmedia.com^
 ||d.reddit.com^
+
+-Twitter-
+||ads-api.twitter.com^
+||advertising.twitter.com^
 
 -YouTube-
 ||ads.youtube.com^
@@ -125,8 +128,35 @@
 
 !#OEM ====================
 
--Realme-
+-Apple-
+||metrics.apple.com^
+||securemetrics.apple.com^
+||supportmetrics.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||dzc-metrics.mzstatic.com^
+||books-analytics-events.news.apple-dns.net^
+||books-analytics-events.apple.com^
+||stocks-analytics-events.apple.com^
+||stocks-analytics-events.news.apple-dns.net^-Realme-
 ||bdapi-in-ads.realmemobile.com^
+
+-Huawei-
+||metrics.data.hicloud.com^
+||metrics1.data.hicloud.com^
+||metrics2.data.hicloud.com^
+||metrics3.data.hicloud.com^
+||metrics4.data.hicloud.com^
+||metrics5.data.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||metrics-dra.dt.hicloud.com^
+||logbak.hicloud.com^
+
+-OnePlus-
+||click.oneplus.cn^
+||click.oneplus.com^
+||open.oneplus.net^
 
 -OPPO-
 ||adsfs.oppomobile.com^
@@ -135,6 +165,17 @@
 ||ck.ads.oppomobile.com^
 ||data.ads.oppomobile.com^
 ||g1.ads.oppomobile.com^
+
+-Samsung-
+||samsungadhub.com^
+||samsungads.com^
+||smetrics.samsung.com^
+||nmetrics.samsung.com^
+||samsung-com.112.2o7.net^
+||business.samsungusa.com^
+||analytics.samsungknox.com^
+||analytics-api.samsunghealthcn.com^
+||cdn.samsungcloudsolution.com^
 
 -Xiaomi-  
 ||api.ad.xiaomi.com^
@@ -150,46 +191,6 @@
 ||tracking.intl.miui.com^
 ||tracking.india.miui.com^
 ||tracking.rus.miui.com^
-
--OnePlus-
-||click.oneplus.cn^
-||click.oneplus.com^
-||open.oneplus.net^
-
--Huawei-
-||metrics.data.hicloud.com^
-||metrics1.data.hicloud.com^
-||metrics2.data.hicloud.com^
-||metrics3.data.hicloud.com^
-||metrics4.data.hicloud.com^
-||metrics5.data.hicloud.com^
-||logservice.hicloud.com^
-||logservice1.hicloud.com^
-||metrics-dra.dt.hicloud.com^
-||logbak.hicloud.com^
-
--Samsung-
-||samsungadhub.com^
-||samsungads.com^
-||smetrics.samsung.com^
-||nmetrics.samsung.com^
-||samsung-com.112.2o7.net^
-||business.samsungusa.com^
-||analytics.samsungknox.com^
-||analytics-api.samsunghealthcn.com^
-||cdn.samsungcloudsolution.com^
-
--Apple-
-||metrics.apple.com^
-||securemetrics.apple.com^
-||supportmetrics.apple.com^
-||metrics.icloud.com^
-||metrics.mzstatic.com^
-||dzc-metrics.mzstatic.com^
-||books-analytics-events.news.apple-dns.net^
-||books-analytics-events.apple.com^
-||stocks-analytics-events.apple.com^
-||stocks-analytics-events.news.apple-dns.net^
 
 -Benutzer-
 ||rr5---sn-4g5ednsy.googlevideo.com^$important
