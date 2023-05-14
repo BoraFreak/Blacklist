@@ -660,6 +660,8 @@
 -Tidal-
 @@||tidal.com^$important
 -TikTok-
+@@||tiktokcdn.com^$important
+@@||tiktok.com^$important
 @@||www.tiktok.com^$important
 @@||ads.tiktok.com^$important
 @@||ads-sg.tiktok.com^$important
