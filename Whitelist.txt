@@ -849,6 +849,7 @@
 @@||fical.net^$important
 @@||www.fical.net^$important
 @@||https://fical.net^$important
+@@||https://fical.net/de/aktiendurchschnittsrechner^$important
 @@||click.alternate.de^$important
 @@||app.usercentrics.eu^$important
 @@||scontent.xx.fbcdn.net^$important
