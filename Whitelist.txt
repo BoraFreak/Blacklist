@@ -574,7 +574,7 @@
 -Raspberry Pi-
 @@||raspberrypi.org^$important
 -Reddit-
-@@||reddit.com^$important
+@@||www.reddit.com^$important
 -Rlje.net VOD-
 @@||api.rlje.net^$important
 -Shoop-
@@ -660,6 +660,7 @@
 -Tidal-
 @@||tidal.com^$important
 -TikTok-
+@@||www.tiktok.com^$important
 @@||ads.tiktok.com^$important
 @@||ads-sg.tiktok.com^$important
 @@||frontier-va.tiktokv.com^$important
