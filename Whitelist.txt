@@ -702,8 +702,9 @@
 -Vodafone-
 @@||fc.vodafone.de^$important
 -VPN-
-@@||go.getproton.me^$important
-@@||get.surfshark.net^$important
+@@||getproton.me^$important
+@@||surfshark.net^$important
+@@||hide.me^$important
 -WhatsApp-
 @@||chat.cdn.whatsapp.net^$important
 @@||g.whatsapp.net^$important
@@ -825,8 +826,8 @@
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
 -Benutzer-
-@@||hide.me^$important
-@@||www.hide.me^$important
+@@||assets.mmsrg.com^$important
+@@||mycliplister.com^$important
 @@||ads.t17service.com^$important
 @@||xhamster.com^$important
 @@||xhamster.desi^$important
