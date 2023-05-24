@@ -826,7 +826,7 @@
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
 -Benutzer-
-@@||romfast.com^$important
+@@||romsfast.com^$important
 @@||assets.mmsrg.com^$important
 @@||mycliplister.com^$important
 @@||ads.t17service.com^$important
