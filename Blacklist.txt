@@ -5809,7 +5809,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/*/show_ads_impl_*.js$domain=texture-packs.com
 @@||googleads.g.doubleclick.net/pagead/id|$domain=texture-packs.com
 @@||googleads.g.doubleclick.net/pagead/id?slf_rd=1$domain=texture-packs.com
-!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 ||7q1z79gxsi.global.ssl.fastly.net^$third-party
 ||img.onvista.de/cmp/new_mssgg.js
 ||eurogamer-uk.eurogamer.net^
@@ -15299,7 +15298,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ed-protect.org
 @@||ads.exdynsrv.com/nativeads.js$domain=torrentgalaxy.org
 @@||webfail.com/image
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_edge || adguard_ext_opera || adguard_ext_safari || ext_ublock || adguard_ext_chromium)
 @@||reuters.com^$generichide
 @@||webfail.com^$generichide
 @@||pons.com/p/files/*$image
@@ -15379,7 +15377,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=gameissue05.blogspot.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sheetmusic-free.com
 ||dtbps3games.com/wp-content/*/js/detector.js
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=eurekaddl.skin
 @@||ads-api.twitter.com^$domain=eurekaddl.skin
 @@||vatchus.com^$generichide
@@ -15390,7 +15387,6 @@
 @@||avpgalaxy.net/gpt.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=loudwire.com
 ||aeroxplorer.com/articles/veneranda.js
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||lifesurance.info/-cpm-ads.js
 ||acceptable.a-ads.com/1^$xmlhttprequest,redirect=nooptext,domain=go.freetrx.fun,important
 ||surfe.pro/js/net.js$script,redirect=noopjs,domain=go.freetrx.fun,important
@@ -15402,11 +15398,9 @@
 ||cdn.fuseplatform.net/publift/tags/*/fuse.js$script,xmlhttprequest,redirect=noopjs,domain=quackr.io
 @@||cdn.fuseplatform.net/publift/tags/*/fuse.js$domain=quackr.io
 @@||ads.host-cdn.net/ads2.js
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||inklinkor.com/tag.min.js$domain=oko.sh|tii.la
 @@||shortlinks.tech^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=webmatrices.com
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||slave.kbjfree.com^|$xmlhttprequest,domain=kbjfree.com
 @@||wyhifdpatl.com^|$xmlhttprequest,domain=kbjfree.com
 @@||d2qnx6y010m4rt.cloudfront.net^|$xmlhttprequest,domain=kbjfree.com
@@ -15417,15 +15411,12 @@
 @@||techtobo.com^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=filerice.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=quackr.io
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=branditechture.agency
 @@||stpd.cloud^$domain=freemcserver.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=computerpedia.in
 @@||ay.delivery/client-v2.js$script,domain=diep.io
 @@||c.amazon-adsystem.com/aax2/apstag.js$script,domain=diep.io
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=decrypt.day
-!#if (adguard_app_ios || adguard_ext_safari)
 @@||louishide.com/js/boxad.js
 @@||cryptocoinsad.com/ads/js/slider_right.js$xmlhttprequest,domain=btcbitco.in|btcsatoshi.net|cempakajaya.com|crypto4yu.com|gainl.ink|readbitcoin.org|wiour.com
 @@||acceptable.a-ads.com/1^$xmlhttprequest,domain=gainl.ink
@@ -15446,23 +15437,19 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=madpremium.freemodsapp.xyz
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=littlebigsnake.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=littlebigsnake.com
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mixrootmod.com
 @@||adoto.net/dashboard/common/js/jquery.simplyscroll.js$domain=mixrootmod.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=mixrootmods.com
 @@||anyporn.com/js_ads/banner.js$~third-party
 ||purposegames.com/api/*/adblock?token=
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zefoy.com
 ||static.surfe.pro/js/net.js$script,xmlhttprequest,redirect=nooptext,domain=atefaucet.com|coinsrev.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=coinsrev.com
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=coinsrev.com
 @@||static.surfe.pro/js/net.js$domain=atefaucet.com|coinsrev.com
 ||fundingchoicesmessages.google.com/i/pub$script,redirect=noopjs,domain=now.gg|now.us
 ||dn0qt3r0xannq.cloudfront.net/nowgg-*/video/prebid-load.js$script,redirect=noopjs,domain=now.gg|now.us
 ||dn0qt3r0xannq.cloudfront.net/nowgg-*/display/prebid-load.js$script,redirect=noopjs,domain=now.gg|now.us
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||now.gg^$generichide
 @@||now.us^$generichide
 @@||fundingchoicesmessages.google.com/i/pub-*?*=$domain=now.gg|now.us
@@ -15474,27 +15461,22 @@
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=news8000.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=news8000.com
 ||djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js$domain=coursera.org,redirect=noopjs
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||djnf6e5yyirys.cloudfront.net/js/friendbuy.min.js$domain=coursera.org
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dlpanda.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=faqwiki.us
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=w3resource.com
 ||engage.ajc.com/prod/ajc/loader.min.js
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=z-lib.io
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=z-lib.io
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=receivesms.org|receivesms.co
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=wooseotools.com
 @@||static.doubleclick.net/instream/ad_status.js$domain=wooseotools.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=quienhabla.mx,xmlhttprequest
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||banner.infoey.com/adbanner.png$domain=bazadecrypto.com
 @@||ad.a-ads.com/*?size=$subdocument,domain=bazadecrypto.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=woowebtools.com
 @@||static.doubleclick.net/instream/ad_status.js$xmlhttprequest,domain=woowebtools.com
 ||veganab.co/wp-content/uploads/ozlrxj.js
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||adserver.adtech.advertising.com/pubapi/$xmlhttprequest,domain=minecraft-schematics.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=replica-watch.info
 ||hager.com/*/youtubeblocker.js
@@ -15503,7 +15485,6 @@
 @@||pubads.g.doubleclick.net/ssai/event/*/streams$xmlhttprequest,domain=winknews.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=winknews.com
 ||shrinkearn.com/modern_theme/img/dwndbnr1.png$image,redirect=1x1-transparent.gif,domain=tii.la
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||shrinkearn.com/modern_theme/img/$domain=tii.la
 @@||jscdn.greeter.me/reviewtech.mehead.js$xmlhttprequest,domain=reviewstation.me|pcreview.me
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=reviewstation.me|pcreview.me
@@ -15553,7 +15534,6 @@
 @@||sportsplays.com/js3caf.js
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=winknews.com
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=winknews.com,important
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||tii.la^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=tii.la
 @@||coins-town.com^$generichide
@@ -15587,7 +15567,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=modzilla.in
 @@||meracalculator.com^$generichide
 ||codeflareblogspot.github.io/code/KillAdBlock.js
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=scamwatcher.com
 ||pobierzgrepc.com/templates/games/js/blocker.js
 ||topsporter.net/wp-content/plugins/wptqn
@@ -15606,7 +15585,6 @@
 @@||pagead2.googlesyndication.com/favicon.ico$domain=hacksnation.com
 @@||mastaklomods.com/wp-content/uploads/*/adex.js
 @@||affiliates.sankmo.com/iframe-redirect$domain=latestcooldeals.blogspot.com
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,domain=sportfacts.net
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=pinloker.com|vebma.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ero-teca.blogspot.com
@@ -15665,19 +15643,15 @@
 @@||coinzillatag.com/lib/fp.js$domain=faucetcrypto.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=ftuapps.dev
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cboxera.com
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 ||sportsguild.net/block/dublocker.css
 @@||ads2.banaraswap.in^$xmlhttprequest,domain=banaraswap.in|kiktu.com
 @@||banaraswap.in^$xmlhttprequest,domain=techcyan.com
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||jsc.adskeeper.co.uk/i/p/ipacrack.com.*.js$domain=ipacrack.com
 @@||cnt.streamz.ws/count.php
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=noopjs,domain=watchtv24.com
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||amazon-adsystem.com/aax2/apstag.js$domain=watchtv24.com
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=watchtv24.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$redirect=googlesyndication-adsbygoogle,domain=codingnepalweb.com
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=codingnepalweb.com
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=codingnepalweb.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=misirtune.blogspot.com
@@ -15689,11 +15663,9 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=faucetcrypto.com
 @@||editpad.org^$generichide
 ||s1cdn.vnecdn.net/*/production/modules/home.defer.js$domain=vnexpress.net
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||jsc.adskeeper.co.uk/*/ipacrack.com.*.js$domain=ipacrack.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js|$domain=noor-book.com
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=noopjs,domain=noor-book.com,important
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||jsc.adskeeper.co.uk/i/o/ios.codevn.net.*.js$domain=codevn.net
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication-adsbygoogle,domain=h-game18.xyz
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=h-game18.xyz
@@ -15745,7 +15717,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=upshrink.com
 @@||scamwatcher.com/js/pubPolicy/ads-prebid.js$domain=scamwatcher.com
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=viki.com
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=viki.com
 @@||pubads.g.doubleclick.net/gampad/ads?env=vp&gdfp_req=1*www.viki.com
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=viki.com
@@ -15874,7 +15845,6 @@
 ||static.surfe.pro/js/net.js$script,xmlhttprequest,redirect=nooptext,domain=claim.fun
 @@||static.surfe.pro/js/net.js$domain=claim.fun
 @@||mailgen.biz/js/sailthru.js$domain=mailgen.biz
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=cardscanner.co
 @@||satoshitap.com/assets/ads-
 @@||pastesearch.xyz/js/prebid-ads.js
@@ -16249,7 +16219,6 @@
 @@||smartnator.com/assets/js/prebid-ads.js
 ||hentaihaven.xxx/wp-content/plugins/player-logic/player.php?$replace=/(let url = ')https:\/\/static\.ads-twitter\.com\/[\s\S]*?(';)/\$1\/\$2/
 ||static.ads-twitter.com/uwt.js$xmlhttprequest,redirect=noopjs,domain=hentaihaven.xxx
-!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 @@||static.ads-twitter.com/uwt.js$domain=hentaihaven.xxx
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=hentaihaven.xxx
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,redirect=noopjs,domain=eviltranslator.xyz
@@ -16259,7 +16228,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=alfred.camera
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication-adsbygoogle,important,domain=alfred.camera
 ||cdn.adoptum.net/ado.js$script,redirect=noopjs,domain=sms24.me|sms24.info
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||cdn.adoptum.net/ado.js$domain=sms24.me|sms24.info
 @@||dl.adoptum.net/spc?sid=$domain=sms24.me|sms24.info
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=sms24.me|sms24.info
@@ -16274,7 +16242,6 @@
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=chd4.com
 ||adblockanalytics.com^$xmlhttprequest,redirect=nooptext,domain=chd4.com,important
 @@||adblockanalytics.com^$xmlhttprequest,domain=chd4.com
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||poweredby.jads.co/js/jads.js$domain=javcl.com
 @@||poweredby.jads.co/js/jads2.js$domain=javcl.com
 ||cdn.tinypass.com^$domain=financialpost.com
@@ -16415,7 +16382,6 @@
 ||static.adsafeprotected.com/vans-adapter-google-ima.js$script,redirect=noopjs,domain=motorsport.tv,important
 ||motorsport.tv/client/player.*.js$replace=/static.adsafeprotected.com\/vans-adapter-google-ima.js/imasdk.googleapis.com\/js\/sdkloader\/ima3.js/
 @@||adz7short.space^$generichide
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||azdly.com^$generichide
 @@||mxcity.mx^$generichide
 @@||softcobra.com^$generichide
@@ -17006,7 +16972,6 @@
 ||filecr.com/_next/static/chunks/pages/*.js$replace=/(return new Promise\(.=>{.\().\|\|.(\)}\))/\$1!1\$2/
 @@||filecr.com/wp-content/plugins/holdback/$script,stylesheet
 @@||scriptcdn.net/code/$xmlhttprequest,domain=filecr.com
-!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=filecr.com,important
 @@||pagead2.googlesyndication.com/pagead/managed/js/adsense/*/show_ads_impl_*.js$domain=filecr.com
 @@||googleads.g.doubleclick.net/pagead/ads?client=ca-pub-$subdocument,domain=filecr.com
@@ -17361,7 +17326,6 @@
 @@||futbin.com^$generichide
 @@||nohat.cc/*/advertisement.js
 ||d33wubrfki0l68.cloudfront.net/js/*/js/ad-payment.js$domain=duellinksmeta.com
-!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=dausel.co
 @@||pagead2.googlesyndication.com/pagead/js/r*/show_ads_impl.js$domain=dausel.co
 @@||megaurl.in^$generichide
@@ -17523,7 +17487,6 @@
 @@||tpc.googlesyndication.com/simgad/$image,domain=a2zupload.com|educatiocenter.online|unlockapk.com
 @@||adsterra.com/images/*.png$image,domain=unlockapk.com
 @@||static.popads.net/img/icons/menu/websites.png$domain=a2zupload.com
-!#if (adguard_app_windows || adguard_app_mac || adguard_app_android)
 ||adsterra.com/*.jpg$redirect=nooptext,important,domain=unlockapk.com|a2zapk.com
 ||popads.net/*.jpg$redirect=nooptext,important,domain=unlockapk.com|a2zapk.com
 ||steepto.com/g/$redirect=nooptext,important,domain=unlockapk.com|a2zupload.com
@@ -18860,13 +18823,11 @@ paklight-sharing.com#%#(function() { var w_open = window.open, regex = /goo.gl/;
 ||pcchip.hr/wp-content/uploads*BANNER
 ||mob.hr/blog/wp-content/uploads/noviupload/NOA-E1-BANNER
 ||mob.hr^*-300x250.
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||google-analytics.com/analytics.js$domain=citroen-club.cz
 ||static.primacdn.cz/sas/sas/sasspa.js
 ||static.primacdn.cz/sas/ads/templates/creatives.js
 ||prima-vod-prep.ssl.cdn.cra.cz/vod_Prima/$domain=iprima.cz
 ||cdn.dopc.cz^$media,domain=iprima.cz
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||google-analytics.com/analytics.js$domain=fiatclub.eu
 ||login.dognet.sk/accounts/default1$third-party
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=media.joj.sk
@@ -18904,7 +18865,6 @@ paklight-sharing.com#%#(function() { var w_open = window.open, regex = /goo.gl/;
 @@||topspeed.sk/ads-prebid.js
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=topspeed.sk
 @@||zdopravy.cz^$generichide
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=zdopravy.cz
 ||uschovna.cz/branding/?branding=$subdocument,redirect=noopframe
 ||cz.mrezadosa.com^$xmlhttprequest,redirect=noopframe,domain=uschovna.cz
@@ -18928,7 +18888,6 @@ paklight-sharing.com#%#(function() { var w_open = window.open, regex = /goo.gl/;
 @@||cz.mrezadosa.com^$domain=centrum.cz
 ||photos.iboys.com/live/ads/
 ||televizeseznam.cz/*&source=*&videoFormats=*&zoneId$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/,xmlhttprequest
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||novinky.cz^$generichide
 @@||cdn.performax.cz/ads|$domain=idnes.cz|novinky.cz
 @@||sk.adocean.pl/files/js/ado.js$domain=idnes.cz|novinky.cz
@@ -18956,7 +18915,6 @@ paklight-sharing.com#%#(function() { var w_open = window.open, regex = /goo.gl/;
 ||ticketportal.cz/Event/$popup,domain=fightclubnews.cz
 ||c.imedia.cz/context?url=$domain=sport.cz
 ||i.imedia.cz/json|$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/,domain=sport.cz
-!#if (adguard_app_ios || adguard_ext_android_cb || adguard_ext_safari)
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=nova.cz
 @@||pubads.g.doubleclick.net/gampad/ads?*=xml_vast*nova.cz$domain=nova.cz
 ||pubads.g.doubleclick.net/gampad/ads?*=xml_vast*nova.cz$redirect=nooptext,important,domain=nova.cz
@@ -19169,7 +19127,6 @@ paklight-sharing.com#%#(function() { var w_open = window.open, regex = /goo.gl/;
 @@||anandabazar.com/*ad$script
 @@||indiafreestuff.in/forum/public/*/facebook_
 ||placehold.co^$domain=layarkaca21.*
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||doroni.me/js/-cpm-ads.js
 @@||kusonime.com/-cpm-ads.js
 ||anime.berangkasilmu.com/?ads=$subdocument
@@ -19484,7 +19441,6 @@ cinemalibero.club#%#(function() { window.open_ = window.open; var w_open = windo
 ||jauns.lv/js/ad-zone.js
 ||jauns.lv/js/ad.js
 ||adocean.pl/*ad.xml$replace=/(<VAST[\s\S]*?>)[\s\S]*<\/VAST>/\$1<\/VAST>/,domain=cloudycdn.services
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||1188lv.adocean.pl/*ad.xml$domain=embed.cloudycdn.services
 @@||1188lv.adocean.pl/files/*.mp4$domain=embed.cloudycdn.services
 @@||vipi.tv/ads.js
@@ -20116,7 +20072,6 @@ radiosupernova.pl,eska.pl,mjakmama24.pl,se.pl,eskarock.pl,voxfm.pl,radioplus.pl,
 @@||player.pl^$generichide
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=player.pl|vod.pl
 ||imasdk.googleapis.com/js/sdkloader/ima3.js$script,redirect=google-ima3,domain=player.pl|vod.pl,important
-!#if (adguard_app_ios || adguard_ext_safari || adguard_ext_android_cb)
 @@||tvn.hit.gemius.pl/*redot.gif$domain=player.pl|vod.pl
 @@||gapl.hit.gemius.pl/gplayer.js$domain=redefine.pl
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=redefine.pl|redcdn.pl|polsatnews.pl|polsatsport.pl|twojapogoda.pl|geekweek.pl
@@ -20393,18 +20348,15 @@ radiosupernova.pl,eska.pl,mjakmama24.pl,se.pl,eskarock.pl,voxfm.pl,radioplus.pl,
 ||vinmec-prod.s3.amazonaws.com/images/vicaread
 ||vndoc.com/get.aspx?q=aHR0cHM6Ly9hZHJlYWxjbGljay5jb20v
 ||bilutvx.net/wow/img/*.gif
-!#if (adguard_app_ios || adguard_ext_android_cb)
 @@||forum.gocmod.com^$generichide
 @@||forum.gocmod.com/js/*/*.js?_v=
 ||bp.blogspot.com^$domain=dualeotruyen.net
 ||img.anime47.com/*.mp4$media
 ||nettruyenvip.com/data/sites/*/banner/$domain=nettruyenvip.com
-!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 @@||gamma.cachefly.net/js/ad-exchange.js$domain=linkneverdie.net
 @@||vcomic.net/app/*/assets/js/prebid-ads.js
 ||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,redirect=googlesyndication-adsbygoogle,important,domain=howkteam.vn
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$xmlhttprequest,domain=howkteam.vn
-!#if (adguard_ext_safari || adguard_app_ios || adguard_ext_android_cb)
 @@||paperzonevn.com^$generichide
 @@||paperzonevn.com/js/*/*.js
 ||tvzingvn.net/wp-content/themes/zingtv/js/qc1.js
