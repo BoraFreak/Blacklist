@@ -827,6 +827,7 @@
 @@||shop-public-cdn.mediazs.com^$important
 -Benutzer-
 @@||archive.org^$important
+@@||us.archive.org^$important
 @@||romsfast.com^$important
 @@||assets.mmsrg.com^$important
 @@||mycliplister.com^$important
