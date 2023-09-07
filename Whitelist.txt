@@ -826,6 +826,8 @@
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
 -Benutzer-
+@@||faphouse.com^$important
+@@||www.faphouse.com^$important
 @@||archive.org^$important
 @@||us.archive.org^$important
 @@||romsfast.com^$important
