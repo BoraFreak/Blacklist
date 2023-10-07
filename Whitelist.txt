@@ -386,6 +386,18 @@
 @@||ws.audioscrobbler.com^$important
 -Lets Encrypt-
 @@||letsencrypt.org^$important
+-LG Electronics-
+@@||de.ad.lgsmartad.com^$important
+@@||de.ibs.lgappstv.com^$important
+@@||de.info.lgsmartad.com^$important
+@@||de.lgrecommends.lgappstv.com^$important
+@@||de.rdx2.lgtvsdp.com^$important
+@@||eic.cdpbeacon.lgtvcommon.com^$important
+@@||eic.cdplauncher.lgtvcommon.com^$important
+@@||eic.cdpsvc.lgtvcommon.com^$important
+@@||eic.service.lgtvcommon.com^$important
+@@||prov-lg.alphonso.tv^$important
+@@||redbutton-adproxy-lb-prod.redbutton.de^$important
 -Libsyn Podcast Hosting-
 @@||traffic.libsyn.com^$important
 -LinkedIn-
