@@ -240,6 +240,13 @@
 @@||facebook.de^$important
 @@||facebook.net^$important
 @@||facebook.com^$important
+@@||connect.facebook.de^$important
+@@||connect.facebook.net^$important
+@@||connect.facebook.com^$important
+@@||l.facebook.de^$important
+@@||l.facebook.net^$important
+@@||l.facebook.com^$important
+@@||z-m.c10r.facebook.com^$important
 @@||pixel.facebook.com^$important
 @@||analytics.facebook.com^$important
 @@||ads.facebook.com^$important
