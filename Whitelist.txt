@@ -237,25 +237,33 @@
 @@||f1-prod-production.dn.apigee.net^$important
 @@||formula1.com^$important
 -Facebook-
+@@||www.facebook.de^$important
+@@||www.facebook.net^$important
+@@||www.facebook.com^$important
 @@||facebook.de^$important
 @@||facebook.net^$important
 @@||facebook.com^$important
-@@||connect.facebook.de^$important
-@@||connect.facebook.net^$important
-@@||connect.facebook.com^$important
 @@||l.facebook.de^$important
 @@||l.facebook.net^$important
 @@||l.facebook.com^$important
 @@||m.facebook.de^$important
 @@||m.facebook.net^$important
 @@||m.facebook.com^$important
+@@||api.facebook.net^$important
+@@||api.facebook.com^$important
+@@||connect.facebook.net^$important
+@@||connect.facebook.com^$important
+@@||graph.facebook.com^$important
+@@||mqtt.facebook.com^$important
 @@||z-m.c10r.facebook.com^$important
+@@||ep7.facebook.com^$important
+@@||web.facebook.com^$important
+@@||gateway.facebook.com^$important
 @@||pixel.facebook.com^$important
 @@||analytics.facebook.com^$important
 @@||ads.facebook.com^$important
 @@||an.facebook.com^$important
 @@||static.xx.fbcdn.net^$important
-@@||api.facebook.net^$important
 @@||api.facebook.com^$important
 @@||creative.ak.fbcdn.net^$important
 @@||edge-mqtt.facebook.com^$important
@@ -397,18 +405,6 @@
 @@||ws.audioscrobbler.com^$important
 -Lets Encrypt-
 @@||letsencrypt.org^$important
--LG Electronics-
-@@||de.ad.lgsmartad.com^$important
-@@||de.ibs.lgappstv.com^$important
-@@||de.info.lgsmartad.com^$important
-@@||de.lgrecommends.lgappstv.com^$important
-@@||de.rdx2.lgtvsdp.com^$important
-@@||eic.cdpbeacon.lgtvcommon.com^$important
-@@||eic.cdplauncher.lgtvcommon.com^$important
-@@||eic.cdpsvc.lgtvcommon.com^$important
-@@||eic.service.lgtvcommon.com^$important
-@@||prov-lg.alphonso.tv^$important
-@@||redbutton-adproxy-lb-prod.redbutton.de^$important
 -Libsyn Podcast Hosting-
 @@||traffic.libsyn.com^$important
 -LinkedIn-
@@ -860,7 +856,6 @@
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
 -Benutzer-
-@@||www.wieistmeineip.de^$important
 @@||faphouse.com^$important
 @@||www.faphouse.com^$important
 @@||archive.org^$important
