@@ -246,12 +246,16 @@
 @@||l.facebook.de^$important
 @@||l.facebook.net^$important
 @@||l.facebook.com^$important
+@@||m.facebook.de^$important
+@@||m.facebook.net^$important
+@@||m.facebook.com^$important
 @@||z-m.c10r.facebook.com^$important
 @@||pixel.facebook.com^$important
 @@||analytics.facebook.com^$important
 @@||ads.facebook.com^$important
 @@||an.facebook.com^$important
 @@||static.xx.fbcdn.net^$important
+@@||api.facebook.net^$important
 @@||api.facebook.com^$important
 @@||creative.ak.fbcdn.net^$important
 @@||edge-mqtt.facebook.com^$important
