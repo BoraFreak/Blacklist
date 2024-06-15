@@ -1350,6 +1350,8 @@
 @@||en.pool.ntp.org^$important
 @@||fr.pool.ntp.org^$important
 @@||uk.pool.ntp.org^$important
+@@|www.ntp.org^$important
+@@|www.ntppool.org^$important
 -Nvidia-
 @@|account.nvidia.com^$important
 @@|accounts.nvgs.nvidia.cn^$important
@@ -1928,6 +1930,16 @@
 @@||i.ytimg.com^$important
 @@||i1.ytimg.com^$important
 @@||s.ytimg.com^$important
+@@|yt-dl.org^$important
+@@|yt1.ggpht.com^$important
+@@|yt2.ggpht.com^$important
+@@|yt3.ggpht.com^$important
+@@|yt4.ggpht.com^$important
+@@|yt5.ggpht.com^$important
+@@|yt6.ggpht.com^$important
+@@|yt7.ggpht.com^$important
+@@|yt8.ggpht.com^$important
+@@|yt9.ggpht.com^$important
 -ZooPlus-
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
