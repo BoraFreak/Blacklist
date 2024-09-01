@@ -173,6 +173,13 @@
 @@||wb-agora-hydra-file-storage-mk11.s3.amazonaws.com^$important
 @@||web-assets-prod.s3.amazonaws.com^$important
 @@||xtnzefcqrb.execute-api.us-east-1.amazonaws.com^$important
+-AMD-
+@@||www.amd.com^$important
+@@||www.amdrewards.com^$important
+@@||www.radeon.com^$important
+@@||amd.com^$important
+@@||amdrewards.com^$important
+@@||radeon.com^$important
 -Apple-
 @@||metrics.apple.com^$important
 @@||securemetrics.apple.com^$important
