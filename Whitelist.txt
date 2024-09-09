@@ -1609,6 +1609,8 @@
 @@||test.steampowered.com^$important
 @@||ufs*.steamcontent.com^$important
 @@||www.steampowered.com^$important
+@@||cdp.geotrust.com^$important
+@@||activity.windows.com^$important
 -TheMovieDB-
 @@||themoviedb.com^$important
 -TheTVDB-
