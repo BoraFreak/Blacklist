@@ -1857,6 +1857,7 @@
 @@||eic.cdplauncher.lgtvcommon.com^$important
 @@||eic.cdpsvc.lgtvcommon.com^$important
 @@||eic.service.lgtvcommon.com^$important
+@@||lsw.lgtvcommon.com^$important
 @@||prov-lg.alphonso.tv^$important
 @@||redbutton-adproxy-lb-prod.redbutton.de^$important
 @@||www.wieistmeineip.de^$important
