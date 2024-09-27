@@ -350,6 +350,7 @@
 @@||cws-iad1.conviva.com^$important
 @@||cws-sjc2.conviva.com^$important
 @@||cws.conviva.com^$important
+@@||disney.my.sentry.io^$important
 @@||disney-plus.net^$important
 @@||disney-portal.my.onetrust.com^$important
 @@||disney.demdex.net^$important
@@ -523,6 +524,7 @@
 @@||profile.accounts.firefox.com^$important
 @@||relay.firefox.com^$important
 @@||www.firefox.com^$important
+@@||stun.services.mozilla.com^$important
 -Formula 1 Mobile iOS-
 @@||codemasters.helpshift.com^$important
 @@||f1mrs.codemasters.com^$important
@@ -798,6 +800,8 @@
 -Google Analytics-
 @@||google-analytics.com^$important
 @@||ssl.google-analytics.com^$important
+-HBB TV-
+@@||cdn.hbbtv.smartclip.net^$important
 -Home Assistant-
 @@||checkonline.home-assistant.io^$important
 -Idealo-
@@ -1848,6 +1852,8 @@
 @@||shop-cdn-m.mediazs.com^$important
 @@||shop-public-cdn.mediazs.com^$important
 -Benutzer-
+@@||browser.sentry-cdn.com^$important
+@@||lgtvonline.lge.com^$important
 @@||de.ad.lgsmartad.com^$important
 @@||de.ibs.lgappstv.com^$important
 @@||de.info.lgsmartad.com^$important
